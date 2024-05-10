@@ -1,4 +1,4 @@
-Live Preview :
+Live Preview : https://joke-generator-aqil.netlify.app/
 
 
 Random Joke Generator 
