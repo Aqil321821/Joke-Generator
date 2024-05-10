@@ -61,7 +61,7 @@ const generateJoke = () => {
 output: 
 XMLHttpRequest {readyState: 4, timeout: 0, withCredentials: false, upload: XMLHttpRequestUpload, onreadystatechange: ƒ, …}
 
-this object is what we get as response from xhr object by hit api end point in which we have "response" in which we are interested
+this object is what we get as response from xhr object by hit api end point in which we have "responseText" in which we are interested
 
 5.
 console.log(this.responseText)
